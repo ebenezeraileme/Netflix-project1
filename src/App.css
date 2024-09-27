@@ -1,0 +1,25 @@
+/* .men{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    animation: animate linear infinite 8s;
+    border-radius: 50%;
+}
+
+@keyframes animate{
+    0%{
+        background-color: red;
+    }
+    35%{
+        background-color: blue;
+    }
+    65%{
+        background-color: beige;
+    }
+    85%{
+        background-color: aqua;
+    }
+    100%{
+        background-color: chartreuse;
+    }
+} */
